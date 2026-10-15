@@ -1,0 +1,11 @@
+Q1. Aucun push de fichier ne serait envoyé sur le repo github
+Q2. Pour eviter les piratages ou de se tromper de mot de passe 
+06/10/2026 Junio C Hamano 1 fichier
+GitLab Bitbucket
+Q3.a) Vrai, un commit ne nécessite pas de connexion car git est utilisé localement
+b) Faux, Git est utilisé pour enregistrer localement
+c) Vrai
+d)Vrai
+Q4) Git c'est notre livre de recette et Github c'est le grand livre de recette regroupant toute les recettes du groupe
+2 commit ->5 commit 
+la modification de tiramisu.txt n'a pas été ajoute au panier alors elle ne sera pas ajoute non plus au moment du push
